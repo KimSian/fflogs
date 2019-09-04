@@ -1,0 +1,440 @@
+층,팀 이름,유저 이름,직업,DPS,RDPS,DPS 관련 링크,시간
+1층,Stardust,Leiken Vylbrand,Monk,"13,455.4","12,221.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=855,7:53
+1층,Stardust,Ardecia Ayden,BlackMage,"11,650.1","11,379.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=858,7:53
+1층,Stardust,Jeycht Rechton,Dragoon,"10,754.8","10,999.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=857,7:53
+1층,Stardust,Chaika Yukina,Dancer,"8,835.2","10,498.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=854,7:53
+1층,Stardust,Rem Yukino,Gunbreaker,"6,942.6","6,557.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:53
+1층,Stardust,Yunalesca Ziya,WhiteMage,"6,793.4","6,609.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=856,7:53
+1층,Stardust,Slife Dark,Paladin,"6,143.9","5,880.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=853,7:53
+1층,Stardust,Ennae Akagane,Scholar,"5,313.2","5,742.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=851,7:53
+1층,Stardust,Limit Break,LimitBreak,"1,114.0","1,114.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=843,7:53
+1층,Lobotomise Me,Agunimo Hirai,BlackMage,"13,147.6","12,713.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:53
+1층,Lobotomise Me,Rharen Caelward,Dragoon,"11,299.2","11,536.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:53
+1층,Lobotomise Me,Scumbag Mcgee,Monk,"11,225.6","11,408.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:53
+1층,Lobotomise Me,Guiten Ten,Bard,"10,795.3","10,828.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=814,7:53
+1층,Lobotomise Me,Artorias Solidor,Warrior,"6,635.9","6,502.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=812,7:53
+1층,Lobotomise Me,Wind-Up Rin,DarkKnight,"6,050.1","5,842.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=816,7:53
+1층,Lobotomise Me,I'll Slap'you,WhiteMage,"5,681.4","5,546.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:53
+1층,Lobotomise Me,Fran Strongarm,Scholar,"5,011.1","5,467.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=813,7:53
+1층,Lobotomise Me,Limit Break,LimitBreak,"1,160.2","1,160.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=826,7:53
+1층,The Bois,Rika Vanih,BlackMage,"13,901.5","11,786.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:53
+1층,The Bois,Yuusha Araragi,Dragoon,"10,943.8","10,837.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:53
+1층,The Bois,Raszagal Kerrigan,Monk,"10,729.2","10,584.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:53
+1층,The Bois,Rinc Wind,Dancer,"9,727.9","11,174.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:53
+1층,The Bois,Lydia Bayorth,Warrior,"7,071.7","6,736.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:53
+1층,The Bois,Stonestrong Oathsworn,Gunbreaker,"6,954.2","6,444.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:53
+1층,The Bois,Hazel Baby,Scholar,"5,631.6","6,051.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:53
+1층,The Bois,Planck's Constant,Astrologian,"4,928.7","6,273.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:53
+1층,The Bois,Limit Break,LimitBreak,"1,085.0","1,085.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=821,7:53
+1층,Good Boys™,Fayne Lightbringer,BlackMage,"12,653.2","11,906.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,Good Boys™,Shadz Sid,Monk,"11,785.3","11,330.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:54
+1층,Good Boys™,Vanilla Mousse,Dragoon,"11,735.1","11,824.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:54
+1층,Good Boys™,Lux Aria,Bard,"11,190.9","11,043.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:54
+1층,Good Boys™,Rayko Bardjack,Gunbreaker,"6,655.8","6,314.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:54
+1층,Good Boys™,Behique Taino,Paladin,"6,061.8","5,812.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:54
+1층,Good Boys™,Bb Mooncancer,Scholar,"4,834.3","5,372.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,Good Boys™,Yo' Money,Astrologian,"4,760.5","6,073.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,Good Boys™,Limit Break,LimitBreak,"1,102.5","1,102.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=820,7:54
+1층,.SiLent ErRors,Sao Videaki,Dragoon,"13,575.8","12,311.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,.SiLent ErRors,Break Core,Monk,"11,655.4","11,215.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,.SiLent ErRors,Persephone Athana,Summoner,"11,521.7","11,340.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:54
+1층,.SiLent ErRors,Rolento Kfc,Dancer,"10,595.8","11,883.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:54
+1층,.SiLent ErRors,Valzard Francesca,Paladin,"6,843.4","6,578.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,.SiLent ErRors,Lante Amih,Warrior,"6,395.7","6,088.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:54
+1층,.SiLent ErRors,Mel Twilight,WhiteMage,"5,688.6","5,487.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:54
+1층,.SiLent ErRors,Setsuna Trussardi,Astrologian,"4,247.5","5,619.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:54
+1층,.SiLent ErRors,Limit Break,LimitBreak,332.5,332.5,https://www.fflogs.com/zone/rankings/29#boss=65&page=821,7:54
+1층,Team Damage Down,Avilio Bruno,Monk,"12,185.3","12,086.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=837,7:54
+1층,Team Damage Down,Vulpix Vx,Bard,"11,612.5","11,588.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=835,7:54
+1층,Team Damage Down,Namine I',Dragoon,"11,279.8","11,470.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=842,7:54
+1층,Team Damage Down,Teufel Man'',Summoner,"9,812.5","9,869.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=840,7:54
+1층,Team Damage Down,Vox Populi,Warrior,"7,175.9","6,944.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=836,7:54
+1층,Team Damage Down,My Alt,Paladin,"6,729.4","6,526.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=838,7:54
+1층,Team Damage Down,Lia Violet,WhiteMage,"6,654.5","6,504.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=839,7:54
+1층,Team Damage Down,Noin Elvira,Scholar,"5,305.4","5,765.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=833,7:54
+1층,HaS,Marga Stayle,Monk,"12,306.8","12,391.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,HaS,Lio Liturge,Dragoon,"11,920.2","12,240.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:54
+1층,HaS,Nono Zedd,Bard,"11,081.5","11,253.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,HaS,Vania Pisces,Machinist,"9,736.1","9,474.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,HaS,Trukia Azur,Gunbreaker,"7,499.6","7,139.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=82,7:54
+1층,HaS,Nachu Vin,Paladin,"7,163.9","6,837.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:54
+1층,HaS,Yui Jeanasis,WhiteMage,"6,244.1","6,044.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:54
+1층,HaS,Moco Rage,Scholar,"4,781.1","5,353.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:54
+1층,Legally Blind,Echo Skyla,Monk,"12,480.0","12,322.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,Legally Blind,Noya Shura,Machinist,"11,684.3","11,124.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=812,7:54
+1층,Legally Blind,Valid Target,RedMage,"9,807.8","10,161.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:54
+1층,Legally Blind,Be Mimu,Ninja,"9,806.5","10,706.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:54
+1층,Legally Blind,Drew Sundance,Warrior,"7,047.6","6,680.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:54
+1층,Legally Blind,U'viloh Zehn,WhiteMage,"6,562.0","6,440.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,Legally Blind,Kokonoe Amercury,Paladin,"6,321.0","6,022.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,Legally Blind,Riki Stratavius,Scholar,"5,870.4","6,121.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:54
+1층,Legally Blind,Limit Break,LimitBreak,"1,214.4","1,214.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:54
+1층,We're Horrible Players,Krsnik Thirteen,BlackMage,"12,439.9","11,141.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:54
+1층,We're Horrible Players,Lilly Angel,Samurai,"11,680.9","11,167.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=82,7:54
+1층,We're Horrible Players,Rayeh Zidnha,Dragoon,"10,923.1","11,318.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:54
+1층,We're Horrible Players,Lalah Elakta,Dancer,"9,614.1","11,262.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,We're Horrible Players,Yan Sirus,Paladin,"6,853.8","6,692.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,We're Horrible Players,Boo Kachoo,WhiteMage,"6,765.8","6,620.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:54
+1층,We're Horrible Players,Ailak Traemane,DarkKnight,"6,410.4","6,171.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,We're Horrible Players,Baffle Bum,Scholar,"4,892.2","5,206.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:54
+1층,We're Horrible Players,Limit Break,LimitBreak,"1,151.0","1,151.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=820,7:54
+1층,D is for Daddy,Je Le,Samurai,"12,583.4","11,908.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:54
+1층,D is for Daddy,Ras Bar,Dragoon,"10,944.2","11,329.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:54
+1층,D is for Daddy,Tenko Saiga,Bard,"10,805.8","10,948.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,D is for Daddy,Laela Prismriver,RedMage,"9,392.8","9,786.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:54
+1층,D is for Daddy,Archer Fulgoris,Gunbreaker,"7,379.3","6,973.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:54
+1층,D is for Daddy,Bailey Rayne,WhiteMage,"6,834.0","6,712.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,D is for Daddy,Iwa Chan,Paladin,"6,203.9","5,981.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:54
+1층,D is for Daddy,Sen Terrechant,Scholar,"5,259.6","5,762.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,D is for Daddy,Limit Break,LimitBreak,"1,253.5","1,253.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=819,7:54
+1층,Team Leftovers,Jankertronn Orion,Machinist,"11,346.2","10,844.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,Team Leftovers,Unknown Conqueror,Monk,"11,270.3","11,191.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,Team Leftovers,J'phana Tyaka,RedMage,"11,140.2","11,735.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:54
+1층,Team Leftovers,Rydie Forscythe,Dragoon,"11,123.5","11,226.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:54
+1층,Team Leftovers,Wuschel Kater,Gunbreaker,"7,171.6","6,773.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:54
+1층,Team Leftovers,Zev Sigma,Paladin,"6,691.7","6,423.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:54
+1층,Team Leftovers,Elaidith Seres,WhiteMage,"6,593.0","6,508.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,Team Leftovers,Selune Devere,Scholar,"5,543.7","6,177.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:54
+1층,Motivation,Panda Cat,BlackMage,"12,683.9","11,925.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:54
+1층,Motivation,Anne Amitche,Bard,"11,374.5","11,282.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:54
+1층,Motivation,Avdol Slayer,Monk,"10,291.1","10,159.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:54
+1층,Motivation,Toro Tomato,Ninja,"9,910.2","10,779.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:54
+1층,Motivation,Norio Noritake,DarkKnight,"6,925.4","6,521.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:54
+1층,Motivation,Maid Mooors,WhiteMage,"6,736.3","6,515.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:54
+1층,Motivation,Shavada Dava,Paladin,"6,736.1","6,456.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:54
+1층,Motivation,Masarot Fotia,Astrologian,"4,844.2","5,862.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:54
+1층,Motivation,Limit Break,LimitBreak,"1,115.8","1,115.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=820,7:54
+1층,Choco-Baguette,Mugen Vaghnard,Monk,"13,019.6","11,718.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8304,7:55
+1층,Choco-Baguette,Sephiro Hehenzo,Summoner,"11,563.8","11,421.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=8308,7:55
+1층,Choco-Baguette,Selo Astral,Ninja,"10,269.1","11,217.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Choco-Baguette,Ma Ki,Dancer,"9,741.9","11,006.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=8303,7:55
+1층,Choco-Baguette,Penelope Zu,Gunbreaker,"7,625.8","7,010.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=8306,7:55
+1층,Choco-Baguette,Jin To,Paladin,"7,484.5","7,062.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=8307,7:55
+1층,Choco-Baguette,Lodhiv Del'drae,WhiteMage,"6,107.4","5,818.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8301,7:55
+1층,Choco-Baguette,Kiera Amariyo,Scholar,"4,905.5","5,463.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8305,7:55
+1층,Sneaky Politicians,Otc Otsie,Monk,"12,924.1","11,827.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Sneaky Politicians,Bae Beleren,Summoner,"11,947.9","11,950.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8154,7:55
+1층,Sneaky Politicians,Annie Asimov,Bard,"11,130.2","11,156.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=8156,7:55
+1층,Sneaky Politicians,Aria Syl,Dancer,"9,924.5","11,434.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=814,7:55
+1층,Sneaky Politicians,Fn Grain,Gunbreaker,"7,167.3","6,701.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=8152,7:55
+1층,Sneaky Politicians,Drink Cup,Warrior,"6,600.5","6,324.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=8151,7:55
+1층,Sneaky Politicians,Lilla Valdian,WhiteMage,"5,502.4","5,320.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=8148,7:55
+1층,Sneaky Politicians,Mizu Uta,Scholar,"4,394.8","4,876.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=8150,7:55
+1층,Sneaky Politicians,Limit Break,LimitBreak,"1,205.3","1,205.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8167,7:55
+1층,i tank u,Kokowam Tonowam,Samurai,"12,054.1","11,471.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=8228,7:55
+1층,i tank u,Akame Murasame,Dragoon,"11,970.1","11,333.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=8230,7:55
+1층,i tank u,Jello Time,RedMage,"11,190.5","11,651.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,i tank u,Nix Alacer,Dancer,"9,341.9","10,522.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=8227,7:55
+1층,i tank u,Noveli Vale,DarkKnight,"6,695.1","6,381.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=8229,7:55
+1층,i tank u,Ultima Sorax,Gunbreaker,"6,691.9","6,288.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,i tank u,Crescent Rose,WhiteMage,"6,106.6","5,938.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,i tank u,Kailin Elaiyu,Scholar,"5,382.3","5,844.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=8195,7:55
+1층,i tank u,Limit Break,LimitBreak,"1,201.6","1,201.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=822,7:55
+1층,Here Comes Daddy,Drifting Diamond,BlackMage,"11,643.3","11,427.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,Here Comes Daddy,Pixote Possuido,Monk,"11,476.8","11,497.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,Here Comes Daddy,Prairie Jones,Bard,"10,924.5","10,948.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Here Comes Daddy,Tableside Wing,Dragoon,"9,659.9","9,845.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,Here Comes Daddy,Opia Cerastes,Warrior,"6,811.4","6,646.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Here Comes Daddy,Pwarbles Snugchub,WhiteMage,"6,803.7","6,680.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Here Comes Daddy,A'postrophe Commah,Paladin,"6,615.0","6,417.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Here Comes Daddy,Lux Tenebras,Scholar,"5,956.4","6,427.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Here Comes Daddy,Limit Break,LimitBreak,834.9,834.9,https://www.fflogs.com/zone/rankings/29#boss=65&page=819,7:55
+1층,Amped up!,Vazi Ayu,Dragoon,"13,550.8","12,784.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Amped up!,Nic Tallstrike,BlackMage,"10,772.1","10,414.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Amped up!,Florencia Xe'lene,RedMage,"10,034.9","10,360.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=816,7:55
+1층,Amped up!,Savanna Valphalk,Dancer,"9,119.3","10,396.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,Amped up!,Alu Senpai,Gunbreaker,"7,529.4","7,066.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=815,7:55
+1층,Amped up!,Leon Sparks,Paladin,"7,105.8","6,824.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=814,7:55
+1층,Amped up!,Yen Tama,WhiteMage,"6,629.1","6,476.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Amped up!,Varisha Yarina,Scholar,"5,026.3","5,444.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=812,7:55
+1층,Amped up!,Limit Break,LimitBreak,930.8,930.8,https://www.fflogs.com/zone/rankings/29#boss=65&page=825,7:55
+1층,Providencepoint,Azure Seichi,Monk,"12,116.5","12,194.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Providencepoint,Querpt Prometeo,BlackMage,"12,075.9","11,945.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Providencepoint,Ichi Hiro,Dragoon,"11,595.7","11,916.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,Providencepoint,Arnihl Tia,Machinist,"11,391.1","11,120.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Providencepoint,Drogqian Miaomiaoqi,Gunbreaker,"6,860.9","6,647.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,Providencepoint,Veneto Nier,Paladin,"6,374.3","6,211.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Providencepoint,Vittorio Nier,WhiteMage,"6,045.8","5,895.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=812,7:55
+1층,Providencepoint,Recken Spocie,Scholar,"4,248.3","4,776.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,Seeker of Twilight,Little Mewri,BlackMage,"12,421.4","11,920.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,Seeker of Twilight,Fout Gigilan,Summoner,"11,660.6","11,829.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Seeker of Twilight,Ryusei Ogami,Dragoon,"11,353.2","11,256.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Seeker of Twilight,Llsjinw Imwking,Monk,"9,986.0","9,938.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Seeker of Twilight,Houki Murasame,Warrior,"6,937.8","6,658.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Seeker of Twilight,Zelen Clamita,Paladin,"6,786.8","6,500.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Seeker of Twilight,Bukubuku Chagama,WhiteMage,"6,328.7","6,168.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,Seeker of Twilight,Graveberry Snowrice,Astrologian,"3,868.6","5,070.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Seeker of Twilight,Limit Break,LimitBreak,"1,235.5","1,235.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=821,7:55
+1층,Nekompany,Manly Musk,Samurai,"12,822.6","12,148.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,Nekompany,Amnesia Rose,Dragoon,"11,552.7","11,714.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=820,7:55
+1층,Nekompany,Cairom Fofomen,RedMage,"11,036.3","11,508.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=823,7:55
+1층,Nekompany,Kadu Chacha,Machinist,"10,680.4","10,238.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:55
+1층,Nekompany,Claire Lockhart,Gunbreaker,"6,639.4","6,350.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=825,7:55
+1층,Nekompany,Blanche Lafaytette,Paladin,"6,485.2","6,276.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=821,7:55
+1층,Nekompany,Tsundere Waifu,WhiteMage,"5,583.2","5,484.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=819,7:55
+1층,Nekompany,Kylia Lumi,Astrologian,"4,587.9","5,668.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=822,7:55
+1층,Nekompany,Limit Break,LimitBreak,"1,175.7","1,175.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=835,7:55
+1층,Death and Taxes,Skiplops Tarrantno,Monk,"11,904.7","10,755.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=82,7:55
+1층,Death and Taxes,Zehyx Beluga,Dragoon,"11,185.8","11,366.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,Death and Taxes,Berae Mugutu,Summoner,"10,796.5","10,886.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Death and Taxes,Vitalian Sarnious,Dancer,"9,874.8","11,108.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,Death and Taxes,Arctica Caelestis,WhiteMage,"7,202.4","7,008.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=815,7:55
+1층,Death and Taxes,Koeda Kazuki,Gunbreaker,"7,045.6","6,592.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Death and Taxes,Belerande Lionhart,DarkKnight,"6,541.1","6,203.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Death and Taxes,Anzu Mutsuki,Scholar,"5,050.7","5,680.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=813,7:55
+1층,Death and Taxes,Limit Break,LimitBreak,"1,096.7","1,096.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=829,7:55
+1층,Glamour Girls,Honest Politician,BlackMage,"12,602.4","12,353.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Glamour Girls,Salsa Defender,Monk,"12,273.3","12,260.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,Glamour Girls,Evrae Natus,Machinist,"10,181.9","9,993.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=815,7:55
+1층,Glamour Girls,Missing Yew,Dragoon,"9,962.9","10,379.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Glamour Girls,Lily Adler,WhiteMage,"6,836.4","6,752.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=813,7:55
+1층,Glamour Girls,June Fox,Paladin,"6,517.8","6,331.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=816,7:55
+1층,Glamour Girls,Sam Elliott,DarkKnight,"5,497.3","5,323.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=814,7:55
+1층,Glamour Girls,Kosh Datian,Scholar,"5,492.6","5,969.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=812,7:55
+1층,Glamour Girls,Limit Break,LimitBreak,"1,157.0","1,157.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=828,7:55
+1층,Use Rescue Responsibly,Diana Aurelian,BlackMage,"13,558.8","11,829.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Use Rescue Responsibly,Sygglona Ahldfarrwyn,Bard,"11,484.5","11,586.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,Use Rescue Responsibly,Sar'ik Shibunuri,Dragoon,"10,601.8","10,998.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Use Rescue Responsibly,Lavinia Vi'britannia,Dancer,"9,767.1","11,318.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Use Rescue Responsibly,Sevren Wolf,Gunbreaker,"7,093.1","6,739.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Use Rescue Responsibly,Guido Valentine,DarkKnight,"6,239.3","5,937.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,Use Rescue Responsibly,Dark Mayne,WhiteMage,"5,583.8","5,424.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Use Rescue Responsibly,Ishvan Fiesse,Scholar,"5,163.7","5,657.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Use Rescue Responsibly,Limit Break,LimitBreak,"1,197.5","1,197.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=820,7:55
+1층,Use Rescue Responsibly,Ground Effect,LimitBreak,3.2,3.2,https://www.fflogs.com/zone/rankings/29#boss=65&page=813,7:55
+1층,No bonobo's squad,Nallffein Drey,Dragoon,"11,935.0","11,792.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,No bonobo's squad,Raydn Orben,Bard,"11,384.8","11,028.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,No bonobo's squad,Callista Phoenix,Summoner,"10,581.5","10,296.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,No bonobo's squad,Shion Taqa,Ninja,"10,160.8","10,683.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,No bonobo's squad,Selenn Vaya,Gunbreaker,"8,059.5","7,390.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,No bonobo's squad,Ecky Noxe,Paladin,"6,946.4","6,625.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,No bonobo's squad,Adam Thorne,Scholar,"5,496.3","5,905.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,No bonobo's squad,Medea Asteria,Astrologian,"4,493.8","5,335.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,No bonobo's squad,Limit Break,LimitBreak,"1,156.0","1,156.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:55
+1층,Bongo Kirby 2: The Revengeance,Kelpie Gwymon,Samurai,"11,978.1","11,500.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,Bongo Kirby 2: The Revengeance,Arsenic Chain,Dragoon,"11,301.1","11,727.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,Bongo Kirby 2: The Revengeance,Evanjalin Snoweye,Bard,"10,881.3","11,099.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Bongo Kirby 2: The Revengeance,Qhi Laqi,BlackMage,"9,976.2","9,711.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Bongo Kirby 2: The Revengeance,Michi Amaya,Paladin,"7,089.7","6,921.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,Bongo Kirby 2: The Revengeance,Kyocchi Murabito,WhiteMage,"6,974.3","6,773.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Bongo Kirby 2: The Revengeance,Hat Hat,Warrior,"6,600.4","6,561.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Bongo Kirby 2: The Revengeance,Riku'tan Shiri,Scholar,"5,677.3","6,183.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Seasons of Sickness,Mesai Alteres,BlackMage,"13,378.1","12,023.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,Seasons of Sickness,Eternal Freedom,Monk,"11,335.3","11,404.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Seasons of Sickness,Bomb Happy,Bard,"10,927.8","10,994.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Seasons of Sickness,Suki Ki,Dancer,"9,738.5","11,301.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Seasons of Sickness,Yuno Misaki,Gunbreaker,"7,146.0","6,773.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Seasons of Sickness,Venus Eros,WhiteMage,"6,417.2","6,219.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Seasons of Sickness,The Uberpwnzorz,Warrior,"6,226.5","6,014.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Seasons of Sickness,Nahru E'stelle,Scholar,"5,432.6","5,870.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,Emerald Beans,Magical Oblivion,BlackMage,"13,205.5","12,659.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,Emerald Beans,Kaze Hishiro,Dragoon,"12,950.6","12,681.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Emerald Beans,Meastoso Disperde,Bard,"11,643.0","11,413.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Emerald Beans,Lianardo De'loraen,RedMage,"10,144.5","10,329.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=812,7:55
+1층,Emerald Beans,Mizzteq Aran,Paladin,"6,979.4","6,696.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Emerald Beans,Lanz Zo,Gunbreaker,"6,517.0","6,077.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,Emerald Beans,Aranoix Erapyl,Scholar,"4,704.0","5,153.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,Emerald Beans,Zaes Vi'narra,Astrologian,"4,531.0","5,664.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,Tales of Clemency,Vee Khazd'in,Samurai,"12,383.2","11,898.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,Tales of Clemency,Charlotte Noire,Monk,"11,586.3","11,644.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=82,7:55
+1층,Tales of Clemency,Zypharia Liii,Summoner,"11,134.8","11,372.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Tales of Clemency,Sergios Leraje,Bard,"10,682.1","10,882.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Tales of Clemency,Rabisu Oberon,DarkKnight,"7,077.7","6,801.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,Tales of Clemency,Kyria Purmei,Paladin,"6,513.3","6,293.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Tales of Clemency,Auri'a Tailweaver,Scholar,"5,621.5","6,255.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Tales of Clemency,Melly Ravenwing,WhiteMage,"5,568.2","5,417.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,TeamSpaウェイ,Kanatos Leather,Dragoon,"12,303.3","12,353.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:55
+1층,TeamSpaウェイ,Setaria Arma,Ninja,"11,845.2","11,494.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,TeamSpaウェイ,Nyxus Tydelic,BlackMage,"10,644.2","10,222.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,TeamSpaウェイ,Sherry Styne,Dancer,"10,049.4","11,368.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,TeamSpaウェイ,Colette Xl,DarkKnight,"7,615.7","7,102.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,TeamSpaウェイ,Yotsuba Hachiyou,Paladin,"6,881.8","6,590.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,TeamSpaウェイ,Shanon Craw,Scholar,"4,997.8","5,399.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,TeamSpaウェイ,Maya Bizet,WhiteMage,"4,860.5","4,667.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,TeamSpaウェイ,Limit Break,LimitBreak,"1,276.1","1,276.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=823,7:55
+1층,RIP Greased Lightning,Miqo'te Zoey,Monk,"11,596.6","11,673.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,RIP Greased Lightning,Kaien Alun,Dragoon,"11,386.6","11,688.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,RIP Greased Lightning,Misty Thrashtiria,Machinist,"11,282.3","11,018.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,RIP Greased Lightning,Jay Wadey,BlackMage,"10,635.3","10,411.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,RIP Greased Lightning,Yuki Fukugawa,Paladin,"6,735.8","6,545.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,RIP Greased Lightning,Dude Wtf,WhiteMage,"6,554.0","6,479.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,RIP Greased Lightning,Jess Farron,Gunbreaker,"6,267.4","6,042.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,RIP Greased Lightning,Auren Feanen,Scholar,"4,744.8","5,343.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,RIP Greased Lightning,Limit Break,LimitBreak,"1,196.5","1,196.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=820,7:55
+1층,SIN,Mr Billy,Dragoon,"12,860.0","11,921.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,SIN,Lessley Dire,Monk,"11,091.0","11,152.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,SIN,Razaan Zorasch,Summoner,"11,064.2","11,061.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,SIN,Cheadle Don,Dancer,"9,992.8","11,311.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,SIN,Sefirem Rine,DarkKnight,"7,960.3","7,488.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,SIN,Mooz Tik,Gunbreaker,"7,368.2","6,976.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:55
+1층,SIN,Mea Culpaa,WhiteMage,"4,643.8","4,457.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,SIN,Nihal Kuropopo,Scholar,"4,326.3","4,938.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,SIN,Limit Break,LimitBreak,"1,171.7","1,171.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:55
+1층,Crippling Depression,Rylori Vyle,Dragoon,"12,535.9","12,091.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,Crippling Depression,Xara Isara,Summoner,"11,285.7","10,829.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,Crippling Depression,Kana Astaryl,Bard,"11,265.2","10,857.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,Crippling Depression,Tiral Bural,Ninja,"10,381.0","11,196.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,Crippling Depression,Mayu Hex,Warrior,"7,041.7","6,657.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,Crippling Depression,Alte Hex,Paladin,"6,896.9","6,450.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,Crippling Depression,Sasaam Lilisamu,Scholar,"5,435.9","5,811.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,Crippling Depression,Nao Fyrith,Astrologian,"4,650.3","5,598.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,Crippling Depression,Limit Break,LimitBreak,"1,092.9","1,092.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=825,7:55
+1층,En Tataru,M' Pel,BlackMage,"14,154.2","12,630.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:55
+1층,En Tataru,Yuri Ha,Dragoon,"11,774.7","12,021.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:55
+1층,En Tataru,Luche Sia,Samurai,"9,847.1","9,552.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:55
+1층,En Tataru,Nai Tui,Dancer,"9,292.9","10,941.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:55
+1층,En Tataru,Gonzo Illionaire,Paladin,"6,709.5","6,513.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:55
+1층,En Tataru,Djamilya Kuro,Gunbreaker,"6,161.4","5,969.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:55
+1층,En Tataru,Nobba Kim,WhiteMage,"6,080.8","5,920.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:55
+1층,En Tataru,Press Flatten,Scholar,"5,281.6","5,752.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:55
+1층,En Tataru,Limit Break,LimitBreak,"1,227.0","1,227.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=819,7:55
+1층,Kurumoku,Tomyum Soup,Dragoon,"12,079.5","12,184.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=8307,7:56
+1층,Kurumoku,Lali- Ho,Summoner,"12,079.4","12,129.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=838,7:56
+1층,Kurumoku,Stella Ren,Bard,"11,086.4","11,119.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=8306,7:56
+1층,Kurumoku,Last Resort,Monk,"10,286.8","10,347.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=8304,7:56
+1층,Kurumoku,An Som,Paladin,"7,027.8","6,758.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=8301,7:56
+1층,Kurumoku,Swordfish Helix,DarkKnight,"6,898.5","6,607.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=8303,7:56
+1층,Kurumoku,Kkan Punggi,WhiteMage,"5,176.6","5,028.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=8308,7:56
+1층,Kurumoku,National Geographic,Scholar,"5,140.2","5,600.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8305,7:56
+1층,Kurumoku,Limit Break,LimitBreak,"1,044.0","1,044.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=8320,7:56
+1층,Toaster-Chan's Bath Water,Havoc Demon,BlackMage,"14,445.1","12,630.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:56
+1층,Toaster-Chan's Bath Water,Gregor Valbaun,Dragoon,"11,453.0","11,675.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=8220,7:56
+1층,Toaster-Chan's Bath Water,Ein Ptolemy,Bard,"10,800.1","10,979.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=8218,7:56
+1층,Toaster-Chan's Bath Water,Akira K'urisu,Dancer,"9,556.5","11,256.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8212,7:56
+1층,Toaster-Chan's Bath Water,Anubis Nephthys,Paladin,"6,656.7","6,393.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=8207,7:56
+1층,Toaster-Chan's Bath Water,Dreadnought Leviathan,Warrior,"6,300.6","6,153.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=8219,7:56
+1층,Toaster-Chan's Bath Water,Righteous Omen,WhiteMage,"5,492.2","5,213.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Toaster-Chan's Bath Water,Ishamael Nae'blis,Scholar,"4,696.4","5,098.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,Toaster-Chan's Bath Water,Limit Break,LimitBreak,"1,170.5","1,170.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=822,7:56
+1층,Talk shit get hit,Aven Ged,Monk,"12,679.6","11,541.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,Talk shit get hit,Valaina's Alt,Summoner,"10,985.3","10,989.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Talk shit get hit,Caur Orben,Bard,"9,810.9","9,957.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,Talk shit get hit,Clarissa Fairchild,Dancer,"9,737.9","11,140.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,Talk shit get hit,Yui Scarlet,DarkKnight,"7,228.1","6,863.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:56
+1층,Talk shit get hit,Sonia Yumeno,WhiteMage,"6,812.9","6,600.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:56
+1층,Talk shit get hit,Slade Mercer,Paladin,"6,666.5","6,411.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,Talk shit get hit,Hjalmar Langley,Scholar,"5,581.8","5,998.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,Talk shit get hit,Limit Break,LimitBreak,"1,215.9","1,215.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:56
+1층,Jackpot!,Krystya Akimata,Samurai,"13,064.5","12,068.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=82,7:56
+1층,Jackpot!,Eizen Scientia,Dragoon,"12,153.7","12,344.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,Jackpot!,Baked Goods,RedMage,"10,849.9","11,207.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Jackpot!,Rhael Nelhah,Bard,"10,745.9","10,731.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:56
+1층,Jackpot!,Aeon Crimson,DarkKnight,"7,465.4","7,163.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,Jackpot!,Blaze Nattdx,Paladin,"6,338.2","6,076.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,Jackpot!,Arkturus Merak,WhiteMage,"4,652.5","4,483.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,Jackpot!,Fruit Bat,Astrologian,"4,005.4","5,200.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,Jackpot!,Limit Break,LimitBreak,"1,171.4","1,171.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=819,7:56
+1층,Quiet Slumber,Love You,Samurai,"11,669.0","10,837.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:56
+1층,Quiet Slumber,Clososo Closo,Bard,"11,174.4","11,264.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:56
+1층,Quiet Slumber,Zlade Yaeger,Dragoon,"10,729.7","11,169.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,Quiet Slumber,Victoria Invicta,RedMage,"10,014.1","10,516.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,Quiet Slumber,Waltz Beat,Gunbreaker,"6,922.4","6,521.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Quiet Slumber,Blueberry Berry,WhiteMage,"6,465.4","6,327.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,Quiet Slumber,Vivina Vina,Paladin,"6,361.9","6,116.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,Quiet Slumber,Whimsical Mercy,Scholar,"5,861.2","6,445.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:56
+1층,Quiet Slumber,Limit Break,LimitBreak,"1,164.6","1,164.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=819,7:56
+1층,Cookie Factory,Specint Stocke,Summoner,"12,296.5","12,551.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:56
+1층,Cookie Factory,Complx Adonis,Monk,"12,154.9","12,139.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,Cookie Factory,Syras Adonis,Machinist,"10,019.2","9,638.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,Cookie Factory,Alice Caroll,Dragoon,"9,348.0","9,652.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Cookie Factory,Busch Adonis,Paladin,"7,000.4","6,781.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,Cookie Factory,Kushiel Montreve,Gunbreaker,"6,976.9","6,709.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:56
+1층,Cookie Factory,Miyuki Yostuba,WhiteMage,"6,764.3","6,623.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,Cookie Factory,Emi Myobu,Scholar,"4,656.4","5,120.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:56
+1층,Cookie Factory,Limit Break,LimitBreak,"1,220.2","1,220.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:56
+1층,Sadbringers,Frey Nightfall,Dragoon,"11,416.7","11,589.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:56
+1층,Sadbringers,Isatis Relanah,Machinist,"11,091.0","10,699.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,Sadbringers,L- Leonharte,Monk,"10,894.2","10,847.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:56
+1층,Sadbringers,Lennard Cruce,RedMage,"10,363.3","10,853.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,Sadbringers,Lognes Shar'tahl,DarkKnight,"6,894.7","6,549.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Sadbringers,Torchie Ignitel,Gunbreaker,"6,835.4","6,530.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,Sadbringers,Miya Fufuna,WhiteMage,"6,694.7","6,580.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:56
+1층,Sadbringers,Naota Kun,Scholar,"6,074.2","6,614.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,Big Dogs,Vox Veritatis,BlackMage,"11,842.4","11,462.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=880,7:56
+1층,Big Dogs,Lexa Aihara,Dragoon,"11,820.6","12,165.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=846,7:56
+1층,Big Dogs,Vera Dalamud,Machinist,"10,942.3","9,758.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=882,7:56
+1층,Big Dogs,Alcinder Ganarslan,Dancer,"9,865.9","11,238.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=878,7:56
+1층,Big Dogs,Hisoka Ophion,DarkKnight,"6,695.4","6,443.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=881,7:56
+1층,Big Dogs,Ajanii Goldmane,Paladin,"6,334.4","6,160.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=883,7:56
+1층,Big Dogs,Pho Requiem,WhiteMage,"5,863.2","5,694.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=879,7:56
+1층,Big Dogs,Smol Keev,Scholar,"5,802.1","6,243.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=845,7:56
+1층,Big Dogs,Limit Break,LimitBreak,"1,178.0","1,178.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=839,7:56
+1층,Ikariya Biolante,Yua Lueur,Summoner,"11,640.1","11,426.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:56
+1층,Ikariya Biolante,Tokunaga Snail,Dragoon,"11,117.4","11,263.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:56
+1층,Ikariya Biolante,Haru Iorin,Bard,"10,804.3","10,832.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=82,7:56
+1층,Ikariya Biolante,Himmel Cielo,Ninja,"10,312.0","11,286.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,Ikariya Biolante,Magnus Gallant,Gunbreaker,"7,757.3","7,055.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Ikariya Biolante,Shingo Caprice,WhiteMage,"6,814.9","6,498.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,Ikariya Biolante,Watabou Dqm,Paladin,"6,340.9","5,996.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,Ikariya Biolante,Dorira Chan,Scholar,"5,081.9","5,509.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,Ikariya Biolante,Limit Break,LimitBreak,579.4,579.4,https://www.fflogs.com/zone/rankings/29#boss=65&page=823,7:56
+1층,LaLaLand,Totoco Alter,Samurai,"12,074.1","10,716.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,LaLaLand,Kaldora Greene,Monk,"11,240.5","11,385.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,LaLaLand,Yunik Niyyn,BlackMage,"11,007.5","10,765.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:56
+1층,LaLaLand,Pillow Moore,Dancer,"9,570.6","11,058.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,LaLaLand,Antares Kresnik,Gunbreaker,"7,036.8","6,759.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,LaLaLand,Firemage Kaika,Paladin,"6,656.3","6,505.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,LaLaLand,Reg Dana,WhiteMage,"6,378.0","6,297.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,LaLaLand,Ankou Arnott,Scholar,"5,242.3","5,717.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:56
+1층,LaLaLand,Limit Break,LimitBreak,"1,121.0","1,121.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=819,7:56
+1층,Dreadwyrm's Horde,Flatrey Cresc'eent,Summoner,"11,413.4","11,405.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:56
+1층,Dreadwyrm's Horde,Arethia Nyxeria,Dragoon,"10,951.5","11,285.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,Dreadwyrm's Horde,Fabio Souleater,Bard,"10,898.1","11,004.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,Dreadwyrm's Horde,Farah Lynch,Machinist,"10,779.2","10,572.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,Dreadwyrm's Horde,Rayo Yuzuka,Gunbreaker,"7,012.6","6,713.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,Dreadwyrm's Horde,Hishui Leonhart,Paladin,"6,600.2","6,361.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:56
+1층,Dreadwyrm's Horde,Hapefull Korset,WhiteMage,"6,200.3","5,990.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,Dreadwyrm's Horde,Woofer Wrynn,Scholar,"5,477.2","5,999.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,Dreadwyrm's Horde,Limit Break,LimitBreak,"1,143.2","1,143.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:56
+1층,イスネフィシュ,St Momo,Monk,"12,263.5","12,123.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:56
+1층,イスネフィシュ,Gin Shali,Bard,"12,056.9","11,917.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:56
+1층,イスネフィシュ,Koro Suky,Summoner,"10,653.3","10,667.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:56
+1층,イスネフィシュ,Mickey' Mouse,Ninja,"9,967.3","10,623.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:56
+1층,イスネフィシュ,Ryo Wistaria,Paladin,"6,801.7","6,509.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:56
+1층,イスネフィシュ,Kuru Sadler,DarkKnight,"6,242.5","5,908.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:56
+1층,イスネフィシュ,S'hayn Tia,WhiteMage,"5,917.3","5,701.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:56
+1층,イスネフィシュ,Mito Scarlet,Scholar,"5,375.5","5,826.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:56
+1층,イスネフィシュ,Limit Break,LimitBreak,"1,198.1","1,198.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:56
+1층,Ashen Sky,Cephiran Vale,Machinist,"12,650.2","10,956.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:57
+1층,Ashen Sky,Estark Wolf,Summoner,"11,310.1","11,141.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:57
+1층,Ashen Sky,Valk Solanis,Dragoon,"11,274.0","11,230.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:57
+1층,Ashen Sky,Little Fox,Dancer,"9,346.7","10,571.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:57
+1층,Ashen Sky,Niek Ds,DarkKnight,"7,172.3","6,789.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:57
+1층,Ashen Sky,Rayon Sinclair,Paladin,"6,601.0","6,286.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:57
+1층,Ashen Sky,Ari Amarite,Scholar,"5,580.6","5,915.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:57
+1층,Ashen Sky,Eggy Themerry,Astrologian,"5,154.2","6,198.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:57
+1층,Ashen Sky,Limit Break,LimitBreak,"1,211.3","1,211.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=825,7:57
+1층,Solstice,Rias Farron,BlackMage,"12,002.0","11,763.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=82,7:57
+1층,Solstice,Masamune Secarius,Samurai,"11,861.4","11,526.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=839,7:57
+1층,Solstice,Trucein Tsutsumi,Dragoon,"11,059.7","11,545.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=841,7:57
+1층,Solstice,Hyounen Lee,Machinist,"10,217.3","10,115.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=840,7:57
+1층,Solstice,Hecate Secarius,DarkKnight,"6,757.1","6,597.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:57
+1층,Solstice,Chev Secarius,Paladin,"6,738.5","6,599.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=845,7:57
+1층,Solstice,Jae Ardence,WhiteMage,"6,018.2","5,954.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=842,7:57
+1층,Solstice,Mokona Momose,Scholar,"5,645.5","6,197.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:57
+1층,Galaxy Kingdom Bitches 48,Luci Dantees,BlackMage,"12,321.3","11,772.2",https://www.fflogs.com/zone/rankings/29#boss=65&page=811,7:57
+1층,Galaxy Kingdom Bitches 48,Gannicus Lefin,Dragoon,"12,184.3","12,394.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:57
+1층,Galaxy Kingdom Bitches 48,Soren Ivalicia,Ninja,"9,855.3","10,810.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=89,7:57
+1층,Galaxy Kingdom Bitches 48,Neantz Mizaki,Bard,"9,253.0","9,331.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:57
+1층,Galaxy Kingdom Bitches 48,Sarin End,Gunbreaker,"7,400.9","6,914.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:57
+1층,Galaxy Kingdom Bitches 48,O'raha Nunh,WhiteMage,"6,744.4","6,420.6",https://www.fflogs.com/zone/rankings/29#boss=65&page=83,7:57
+1층,Galaxy Kingdom Bitches 48,Aomine Daiki,DarkKnight,"6,299.7","5,906.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:57
+1층,Galaxy Kingdom Bitches 48,Kuroko Tetsuya,Scholar,"5,170.4","5,678.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:57
+1층,Galaxy Kingdom Bitches 48,Limit Break,LimitBreak,"1,105.3","1,105.3",https://www.fflogs.com/zone/rankings/29#boss=65&page=821,7:57
+1층,MOOF,Vi M',Dragoon,"12,349.6","12,773.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=86,7:57
+1층,MOOF,Aschera Rolando,Samurai,"11,376.7","10,802.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=88,7:57
+1층,MOOF,Rave Fourth,Summoner,"10,029.5","10,182.0",https://www.fflogs.com/zone/rankings/29#boss=65&page=85,7:57
+1층,MOOF,Crystal Azure,Bard,"9,860.4","10,132.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=84,7:57
+1층,MOOF,Keane Everett,Paladin,"7,003.2","6,746.5",https://www.fflogs.com/zone/rankings/29#boss=65&page=81,7:57
+1층,MOOF,Qoya Koneko,DarkKnight,"6,871.7","6,598.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=87,7:57
+1층,MOOF,Elena Rose,WhiteMage,"6,619.3","6,406.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=834,7:57
+1층,MOOF,Rie Tanaka,Scholar,"5,164.8","5,633.9",https://www.fflogs.com/zone/rankings/29#boss=65&page=810,7:57
+1층,MOOF,Limit Break,LimitBreak,"1,150.1","1,150.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=838,7:57
+1층,Warriors of Rice,Sejeo Vicie,BlackMage,"12,791.5","12,062.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=827,7:57
+1층,Warriors of Rice,Vernon Lok,Bard,"11,096.5","11,221.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=821,7:57
+1층,Warriors of Rice,Yukiko Takahashi,Dragoon,"11,091.5","11,396.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=818,7:57
+1층,Warriors of Rice,Miyamota Musashi,Ninja,"10,455.2","11,293.1",https://www.fflogs.com/zone/rankings/29#boss=65&page=820,7:57
+1층,Warriors of Rice,Lucis Leonhardt,Paladin,"7,299.0","6,972.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=822,7:57
+1층,Warriors of Rice,Legado Woodcrest,Gunbreaker,"6,896.5","6,435.7",https://www.fflogs.com/zone/rankings/29#boss=65&page=823,7:57
+1층,Warriors of Rice,Yumi Night,Scholar,"6,037.6","6,516.4",https://www.fflogs.com/zone/rankings/29#boss=65&page=825,7:57
+1층,Warriors of Rice,Pearl Wind,WhiteMage,"4,686.6","4,455.8",https://www.fflogs.com/zone/rankings/29#boss=65&page=824,7:57
